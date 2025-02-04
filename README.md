@@ -243,7 +243,6 @@ Yavan, Feyzullah, Reza Maalek, and Vedat Toğan. 2024. "Structural Optimization 
 
 **BibTeX:**
 
-```bibtex
 @Article{buildings14061532,
   AUTHOR = {Yavan, Feyzullah and Maalek, Reza and Toğan, Vedat},
   TITLE = {Structural Optimization of Trusses in Building Information Modeling (BIM) Projects Using Visual Programming, Evolutionary Algorithms, and Life Cycle Assessment (LCA) Tools},
