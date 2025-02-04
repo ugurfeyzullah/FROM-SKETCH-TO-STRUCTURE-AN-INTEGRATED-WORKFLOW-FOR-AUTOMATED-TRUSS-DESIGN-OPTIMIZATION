@@ -1,6 +1,7 @@
 # From Sketch to Structure: An Integrated Workflow for Automated Truss Design Optimization Through BIM Tools
+![Workspace](https://github.com/user-attachments/assets/8a6e58ed-76aa-480a-959a-6b8a9340f823)
 
-![Workspace](https://github.com/user-attachments/assets/212d478a-5885-454a-8d62-01985aa9eaeb)
+
 
 ## Table of Contents
 - [Abstract](#abstract)
